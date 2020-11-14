@@ -7,7 +7,7 @@
          <field name="website_published">True</field>
          <field name="url">/services</field>
          <field name="type">qweb</field>
-         <field name="key">theme_tutorial.services_page</field>
+         <field name="key">theme_haque_silver.services_page</field>
          <field name="arch" type="xml">
              <t t-name="theme_haque_silver.services_page_template">
                 <t t-call="website.layout">

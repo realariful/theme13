@@ -7,4 +7,10 @@
         </xpath>
     </template>
 
+    <template id="theme_editor" inherit_id="website.assets_editor" name="Theme Silver">
+        <xpath expr="script[last()]" position="after">
+          <script type="text/javascript" src="/theme_haque_silver/static/src/js/theme_editor.js" />
+        </xpath>
+      </template>
+
 </odoo>
